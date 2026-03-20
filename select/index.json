@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "自堕楽（feat. 音街ウナ）",
+  "base_artist": "こめだわら",
+  "createdAt": "2026-03-20T09:41:18.285576Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "自堕楽 feat.音街ウナ",
+      "artist": "こめだわら, 音街ウナ",
+      "has_synced": false,
+      "path": "select/pl_01_自堕楽_feat.音街ウナ_こめだわら,_音街ウナ.txt"
+    }
+  ]
+}
